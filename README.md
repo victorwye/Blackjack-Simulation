@@ -2,7 +2,7 @@
 Blackjack strategy simulation
 
 **Background**
-The rules I am basing my game on is taken from bicycle cards website (“How to Play: Blackjack”). The perspective of the game will be slightly modified, mainly to compensate my lack of skills in this game. With this modification, I am trying to find the best strategy to use heading into a casino and playing multiple games of Blackjack. I will be simulating multiple strategies and basing the results of all the strategies to pick the most optimal to use.
+The rules I am basing my game on is taken from bicycle cards website (“How to Play: Blackjack”). The perspective of the game will be slightly modified to a more beginner level playing field of Blackjack. With this modification, I am trying to find the best strategy to use heading into a casino and playing multiple games of Blackjack. I will be simulating multiple strategies and basing the results of all the strategies to pick the most optimal to use.
 
 **Rules of the game**
 To play the game is to first understand the rules of blackjack. Although the game does have levels of complexity built into it, I am planning to modify the game slightly to compensate for my novice skills. The modification will be taking out Double Down, Splits and Insurance options. These are some calls that I wouldn’t know when to use. To play the game, these are the basic rules:
